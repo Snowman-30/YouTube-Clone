@@ -18,7 +18,7 @@ This exercise helped reinforce CSS Grid, Flexbox, box-sizing techniques, and res
 🚀 Live Demo
 
 Check out the live version hosted on :
-https://github.com/Snowman-30/YouTube-Clone
+https://snowman-30.github.io/YouTube-Clone/
 <br>
 
 # ✨ Features

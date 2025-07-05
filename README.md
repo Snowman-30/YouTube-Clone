@@ -15,7 +15,7 @@ This YouTube Clone project recreates the core look and feel of the YouTube homep
 This exercise helped reinforce CSS Grid, Flexbox, box-sizing techniques, and responsive design principles.
 <br>
 
-🚀 Live Demo
+# 🚀 Live Demo
 
 Check out the live version hosted on :
 https://snowman-30.github.io/YouTube-Clone/

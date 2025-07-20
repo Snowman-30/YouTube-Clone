@@ -14,6 +14,7 @@ main {
 
 .thumbnail {
     width: 100%;
+    border-radius: 10px;
 }
 
 .vid-detail-grid {
@@ -33,6 +34,12 @@ main {
     font-size: 14px;
     font-weight: 500;
     line-height: 20px;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    line-clamp: 2;
+    -webkit-box-orient: vertical;
+    text-overflow: ellipsis;
+    overflow: hidden;
 }
 
 .vid-author,

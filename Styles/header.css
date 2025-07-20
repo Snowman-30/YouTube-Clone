@@ -37,11 +37,11 @@
 }
 
 .middle-section {
+    display: flex;
     flex: 1;
     margin-left: 60px;
     margin-right: 29px;
     max-width: 470px;
-    display: flex;
     align-items: center;
 }
 

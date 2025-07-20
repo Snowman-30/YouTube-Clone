@@ -1,6 +1,6 @@
 # YouTube-Clone
 
-## Welcome to the YouTube Clone project! This web application is a front-end replica of the bacis YouTube homepage. It demonstrates modern web development practices using HTML and CSS. 
+## Welcome to the YouTube Clone project! This web application is a front-end replica of the basic YouTube homepage. It demonstrates modern web development practices using HTML and CSS. 
 
 # 🔍Overview
 
@@ -29,7 +29,9 @@ Responsive Layout: Adjusts gracefully from mobile to desktop screens
 
 2. Search Bar: Styled to mimic YouTube’s UI
 
-3. Logo: Replicated the functionality of being clickable and navigating to the homapage of youtube.com
+3. Logo: Replicated the functionality of being clickable and navigating to the homepage of youtube.com
+
+4. Sidebar: Buttons that help you navigate.
 <br>
 
 # 🛠️ Built With
@@ -52,7 +54,7 @@ Contributions are welcome! To propose changes:
 
 5. Open a Pull Request
 
-### I'll keep making improvements/changes in this timely to make this project match the modern structure of YouTube.
+### Follow me on GitHub and LinkedIn to get future updates of this and other projects.
 
 ### I'll see you with the next one ;) Till then
 
